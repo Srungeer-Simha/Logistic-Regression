@@ -927,11 +927,18 @@ grid.arrange(plot1, plot2, nrow = 2)
 
 # Key variables indicative of employee attrition
   # 1. Employee age - young staff (18 to 25) have a high chance of attrition
+         # Make the workplace attractive to young staff - competitive pay, broadening opportunities etc
   # 2. Senior staff are also prone to attrition, as expected due to voluntary or mandatory retirement
+         # No action can be taken, unless senior employees can be retained on contractor basis post retirement
   # 3. Staff who spend a lot of hours ( > 8) at work are likely to quit
+         # discourage working overtime at the office, encourage managers to distribute work more evenly among staff
   # 4. Employees who rate "low" on employee satisfaction surveys are likely to quit
+         # Engage staff with “low” survey ratings and incorporate feedback into improvement plans
   # 5. Single staff are more likely to quit
+         # Requires further investigation, target employee survey for single staff?
   # 6. the HR department has also shows a relatively high attrition rate
+         # Requires further investigation and engagement with staff in HR department
   # 7. Staff that travel frequently are also likely to quit
+         # Distribute work that requires travel more evenly among employees, incentivise business travel with bonuses/allowances
 
 # The single most important variable is age, with young employees having an attrition rate of 50%
